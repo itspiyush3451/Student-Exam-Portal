@@ -1,9 +1,5 @@
 # Student Exam Portal
 
-An online examination system built with PHP and MySQL, designed to provide a seamless experience for both administrators and students. The system includes a timer for each exam and a user-friendly interface for exam management.
-
-
-## Project Overview
 
 The Student Exam Portal provides a platform for online examinations, where administrators can create and manage exams, and students can take exams in a controlled environment. The platform features a real-time timer for exams and is built with PHP and MySQL.
 
