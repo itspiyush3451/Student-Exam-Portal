@@ -2,17 +2,6 @@
 
 An online examination system built with PHP and MySQL, designed to provide a seamless experience for both administrators and students. The system includes a timer for each exam and a user-friendly interface for exam management.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Implementation](#implementation)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [How To Run](#how-to-run)
-- [Admin Login Access Information](#admin-login-access-information)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
