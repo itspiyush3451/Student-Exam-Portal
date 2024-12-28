@@ -44,7 +44,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/itspiyush3451/Student-Exam-Portal.git
-
+```
 ### 2. Copy the Project Folder
 
 Move the `Student-Exam-Portal` folder into the `htdocs` directory of your XAMPP installation. The path is usually:
