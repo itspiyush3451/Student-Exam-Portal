@@ -6,7 +6,7 @@ The Student Exam Portal provides a platform for online examinations, where admin
 
 
 
-![Alt text](DashBoard (2).jpeg)
+![Alt text](DashBoard(2).jpeg)
 
 
 ## Implementation
