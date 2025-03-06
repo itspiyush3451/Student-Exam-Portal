@@ -1,7 +1,7 @@
 # Student Exam Portal
 
 
-The Student Exam Portal provides a platform for online examinations, where administrators can create and manage exams, and students can take exams in a controlled environment. The platform features a real-time timer for exams and is built with PHP and MySQL.
+The Student Exam Portal provides a platform for online examinations, where administrators can create and manage exams, and students can take exams in a controlled environment. The platform features a real-time timer for exams and is built with PHP and PostgreSQL.
 
 
 
@@ -23,7 +23,7 @@ The application is designed to be easily extendable and customizable for various
 Before you begin, ensure you have the following software installed:
 
 - [XAMPP](https://www.apachefriends.org/index.html) or any local server environment that supports PHP and MySQL.
-- Basic knowledge of PHP, MySQL, and web application deployment.
+- Basic knowledge of PHP, PostgreSQL, HTML ,CSS and Javascript.
 
 ## Getting Started
 
