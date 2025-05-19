@@ -1,97 +1,100 @@
-# Student Exam Portal
+Student Exam Portal
+A comprehensive online examination platform built with PHP and PostgreSQL that allows administrators to create and manage exams while providing students with a controlled testing environment featuring real-time timers.
+Show Image
+Features
+
+Real-time Exam Timer: Countdown timer for exam duration
+Admin Dashboard: Complete exam and user management system
+Student Interface: User-friendly exam-taking environment
+Feedback System: Collect student feedback on exam experience
+Ranking System: View performance rankings based on exam results
+Question Management: Create, edit, and delete exam questions
+User Authentication: Secure login for admins and students
+
+UI Showcase
+Main Interfaces
+<div align="center">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/DashBoard.jpeg" width="400" alt="Dashboard">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ExamPortal.jpeg" width="400" alt="Exam Portal">
+</div>
+Admin Management
+<div align="center">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageUsers.jpeg" width="400" alt="Manage Users">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageCourse.jpeg" width="400" alt="Manage Course">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/MangeExam.jpeg" width="400" alt="Manage Exam">
+</div>
+Student Experience
+<div align="center">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Result.jpeg" width="400" alt="Result">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Rank.jpeg" width="400" alt="Rank">
+</div>
+Feedback System
+<div align="center">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Feedback.jpeg" width="400" alt="Feedback">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/FeedbackForm.jpeg" width="400" alt="Feedback Form">
+</div>
+Prerequisites
+Before you begin, ensure you have the following installed:
+
+XAMPP or any local server environment with PHP and MySQL support
+Knowledge of PHP, PostgreSQL, HTML, CSS, and JavaScript
+
+Installation
+1. Clone the Repository
+bashgit clone https://github.com/itspiyush3451/Student-Exam-Portal.git
+2. Copy Project Files
+Move the Student-Exam-Portal folder to your server's web directory:
+
+Windows: C:/xampp/htdocs/
+Linux/Mac: /opt/lampp/htdocs/
+
+3. Database Setup
+
+Open phpMyAdmin in your browser
+Create a new database named cee_db
+Import the SQL file from the project's db/cee_db.sql
+
+4. Launch the Application
+
+Start Apache and MySQL services in XAMPP Control Panel
+Access the application:
+
+Student Interface: http://localhost/Student-Exam-Portal/
+Admin Panel: http://localhost/Student-Exam-Portal/adminpanel/
 
 
-The Student Exam Portal provides a platform for online examinations, where administrators can create and manage exams, and students can take exams in a controlled environment. The platform features a real-time timer for exams and is built with PHP and PostgreSQL.
 
+Admin Access
+Use these credentials to access the admin panel:
 
+Username: admin@username
+Password: admin@password
 
+How to Use
+For Administrators
 
-![Alt text](DashBoard.jpeg)
+Log in to the admin panel
+Create courses and manage users
+Create exams and add questions
+View student results and feedback
 
+For Students
 
-## Implementation
+Log in to the student interface
+Select available exams
+Complete exams within the allocated time
+View results and rankings
 
-The system allows the following:
+Contributing
+Contributions are welcome to help improve this system:
 
-- **Admin Panel:** Admins can create exams, manage questions, view results, and more.
-- **Student Interface:** Students can take exams with a real-time countdown timer.
+Fork the repository
+Create a new branch for your feature (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
 
-The application is designed to be easily extendable and customizable for various use cases and can be deployed in any PHP-supported server environment.
-
-## Prerequisites
-
-Before you begin, ensure you have the following software installed:
-
-- [XAMPP](https://www.apachefriends.org/index.html) or any local server environment that supports PHP and MySQL.
-- Basic knowledge of PHP, PostgreSQL, HTML ,CSS and Javascript.
-
-## Getting Started
-
-To get the project up and running, follow the steps below:
-
-### 1. Clone the repository
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/itspiyush3451/Student-Exam-Portal.git
-```
-### 2. Copy the Project Folder
-
-Move the `Student-Exam-Portal` folder into the `htdocs` directory of your XAMPP installation. The path is usually:
-
-- On **Windows:** `C:/xampp/htdocs/`
-- On **Linux/Mac:** `/opt/lampp/htdocs/`
-
-### 3. Database Configuration
-
-- Open [phpMyAdmin](http://localhost/phpmyadmin/) in your browser.
-- Create a new database named `cee_db`.
-- Import the SQL file (`cee_db.sql`) provided in the `db` folder of the project.
-
-### 4. Launch the Application
-
-After setting up the database, you can access the application:
-
-- **Student Interface:** Go to `http://localhost/Student-Exam-Portal/` in your browser.
-- **Admin Panel:** Go to `http://localhost/Student-Exam-Portal/adminpanel/` in your browser.
-
-## How To Run
-
-To run the system locally:
-
-1. Start **Apache** and **MySQL** in the XAMPP Control Panel.
-2. Follow the steps above to copy the project to `htdocs` and set up the database.
-3. Open your browser and access the system at the provided URLs.
-
-## Admin Login Access Information
-
-- **Username:** admin@username
-- **Password:** admin@password
-
-Use these credentials to access the admin panel.
-
-## Features
-
-- **Real-time Timer:** A timer counts down during the exam.
-- **Admin Panel:** Admins can create and manage exams, view student results, etc.
-- **Student Panel:** Students can take the exam, view questions, and submit answers.
-- **Question Management:** Admins can create, edit, and delete exam questions.
-
-## Contributing
-
-We welcome contributions to improve the system. If you want to contribute, you can:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make changes and commit them.
-4. Submit a pull request.
-
-Your contributions can help others build upon and improve this system.
-
-## License
-
-This project is open-source and available for educational purposes only. Feel free to use, modify, and distribute it as long as it's used for non-commercial purposes.
-
----
-
+License
+This project is open-source and available for educational purposes only. You may use, modify, and distribute it as long as it's for non-commercial purposes.
+Contact
+Project Link: https://github.com/itspiyush3451/Student-Exam-Portal
