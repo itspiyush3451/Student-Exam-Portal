@@ -16,26 +16,26 @@ A comprehensive online examination platform built with PHP and PostgreSQL that a
 ### Main Interfaces
 <div align="center">
   <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/DashBoard.jpeg" width="400" alt="Dashboard">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ExamPortal.jpeg" width="400" alt="Exam Portal">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ExamPortal.png" width="400" alt="Exam Portal">
 </div>
 
 ### Admin Management
 <div align="center">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageUsers.jpeg" width="400" alt="Manage Users">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageCourse.jpeg" width="400" alt="Manage Course">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageExam.jpeg" width="400" alt="Manage Exam">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageUsers.png" width="400" alt="Manage Users">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageCourse.png" width="400" alt="Manage Course">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/ManageExam.png" width="400" alt="Manage Exam">
 </div>
 
 ### Student Experience
 <div align="center">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Result.jpeg" width="400" alt="Result">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Rank.jpeg" width="400" alt="Rank">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Result.png" width="400" alt="Result">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Rank.png" width="400" alt="Rank">
 </div>
 
 ### Feedback System
 <div align="center">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Feedback.jpeg" width="400" alt="Feedback">
-  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/FeedbackForm.jpeg" width="400" alt="Feedback Form">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/Feedback.png" width="400" alt="Feedback">
+  <img src="https://github.com/itspiyush3451/Student-Exam-Portal/raw/main/UI/FeedbackForm.png" width="400" alt="Feedback Form">
 </div>
 
 ## Prerequisites
